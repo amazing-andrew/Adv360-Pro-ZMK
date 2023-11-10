@@ -1,3 +1,10 @@
+## GUI Editors
+
+[nickcoutsos/keymap-editor](https://nickcoutsos.github.io/keymap-editor/)
+
+[Advantage 360 GUI](https://kinesiscorporation.github.io/Adv360-Pro-GUI)
+
+
 # Kinesis Advantage 360 Pro ZMK Config
 
 ## Modifying the keymap
