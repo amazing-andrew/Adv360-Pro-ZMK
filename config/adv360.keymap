@@ -104,7 +104,12 @@
         c_alt_tab_mode: c_alt_tab_mode {
             compatible = "zmk,behavior-macro";
             #binding-cells = <0>;
-            bindings = <&kp LA(TAB) &mo 2>;
+            bindings =
+                <&macro_press>,
+                <&kp LA(TAB) &mo 2>,
+                <&macro_release>,
+                <&kp LA(TAB) &mo 2>;
+
             label = "C_ALT_TAB_MODE";
         };
     };
