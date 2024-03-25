@@ -140,8 +140,6 @@
             #binding-cells = <0>;
             bindings = <&kp LS(D) &kp A &kp R &kp K &kp S &kp O &kp U &kp L &kp S &kp I &kp S &kp H &kp A &kp R &kp D &kp POUND &kp N2 &kp N2>;
             label = "PWD";
-            tap-ms = <60>;
-            wait-ms = <30>;
         };
     };
 
